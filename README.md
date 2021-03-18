@@ -1,6 +1,11 @@
 # destini_app
 
-A new Flutter application.
+A new Story application.
+
+![Screenshot_1616106719](https://user-images.githubusercontent.com/44507236/111706980-eae91280-884b-11eb-9d41-555e4716d982.png)
+![Screenshot_1616106728](https://user-images.githubusercontent.com/44507236/111706990-f1778a00-884b-11eb-99d9-245cbff38391.png)
+![untitled](https://user-images.githubusercontent.com/44507236/111707007-f76d6b00-884b-11eb-800d-7cfffc153d08.gif)
+
 
 ## Getting Started
 
